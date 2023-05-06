@@ -2,6 +2,11 @@
 
 ## [İCO YU TEST ETMEK İÇİN TIKLA](https://borsa.twowaydev.com/)
 
+Bu site REACT ile geliştirilmiştir. Site tasarımı için BOOTSTRAP kullanılmıştır.
+Fetch API ile saatde 3 kez  veriler alınır ve dinamik bir şekilde websitesine entegre edilir.
+Site tasarımı ve hakları TWOWAYDEV altında  bana aittir.
+
+
 ## UNUTMAYIN İCO MÜKEMMEL DEĞİLDİR AMA TRADERLAR DA ÖYLE 
 
 
@@ -47,3 +52,9 @@ WEBSİTESİNDE İCO SİZE HER SAATİN TRENDLERİNİ VE O SAAT İÇİNDE BEKLENEN
 
 
 ![ico](https://github.com/mock3ng/ico/blob/main/ico.png)
+
+
+
+
+NOT : ÇIKTILAR KESİNLİKLE YATIRIM TAVSİYELERİ DEĞİLDİR AMAÇ ÖĞRENİM HAYATIM VE TECRÜBELERİMİ GELİŞTİRMEK AMAÇLI PROJENİN DOĞRULUĞUNU İNSANLARA AÇMAKTI.
+YAPAY ZEKA SİZE YATIRIM İÇİN FİKİRLER ÜRETEBİLİR FAKAT İNSANLAR GİBİ O DA MÜKEMMEL DEĞİLDİR AMA İNSANLARDAN DAHA ÇOK MÜKEMMELE YAKINDIR.
