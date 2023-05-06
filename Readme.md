@@ -4,7 +4,7 @@
 
 ## UNUTMAYIN İCO MÜKEMMEL DEĞİLDİR AMA TRADERLAR DA ÖYLE 
 
-
+## TEKNİK VE GRAFİK VERİLERİ PARAYI DÖNÜŞTÜRÜN
 
 
 BİR TRADER KAÇ EKRANA AYNI ANDA BAKABİLİR ? 
@@ -17,8 +17,8 @@ Sizlere 144 ekrana aynı anda bakabilen ve birçok teknik veriyi saatte 3 kez i�
 
 İCO : LSTM Katmanlarını kullanan bir yapay sinir ağlarını kullanan yapay zeka modelidir.
 
-Bin trader kendini eğitimler ve simule edilmiş ortamlarda eğiti. İCO ise 144 hisse için son 5 yılın tüm verileri ile eğitilmiştir.
-İCO Gird Olarak Ne Kullanır:
+Bir trader kendini eğitimler ve simule edilmiş ortamlarda eğitir. İCO ise 144 hisse için son 5 yılın tüm verileri ile eğitilmiştir.
+İCO Girdi Olarak Ne Kullanır:
 
 -İNDİKATÖRLER
 
