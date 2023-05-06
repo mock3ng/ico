@@ -4,7 +4,7 @@
 
 Bu site REACT ile geliştirilmiştir. Site tasarımı için BOOTSTRAP kullanılmıştır.
 Fetch API ile saatde 3 kez  veriler alınır ve dinamik bir şekilde websitesine entegre edilir.
-Site tasarımı ve hakları TWOWAYDEV altında  bana aittir.
+Site tasarımı ve hakları TWOWAYDEV'e aittir.
 
 
 ## UNUTMAYIN İCO MÜKEMMEL DEĞİLDİR AMA TRADERLAR DA ÖYLE 
